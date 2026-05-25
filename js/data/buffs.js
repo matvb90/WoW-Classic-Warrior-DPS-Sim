@@ -81,6 +81,14 @@ var buffs = [
       worldbuff: true,
    },
    {
+      id: 28059,
+      spellid: true,
+      name: "Positive Charge",
+      iconname: "spell_chargepositive",
+      dmgmod: 190,
+      spelldmgmod: 190,
+   },
+   {
       id: 16609,
       spellid: true,
       name: "Warchief's Blessing",
