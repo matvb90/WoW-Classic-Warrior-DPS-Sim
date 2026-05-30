@@ -87,6 +87,7 @@ var buffs = [
       iconname: "spell_chargepositive",
       dmgmod: 190,
       spelldmgmod: 190,
+      other:true
    },
    {
       id: 16609,
